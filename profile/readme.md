@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam">
-   <img src="https://avatars.githubusercontent.com/u/167843717" />
+   <size=80%><img src="https://avatars.githubusercontent.com/u/167843717" /></size>
 </a>
 
 # LimbusCompanySpanishTranslationTeam
