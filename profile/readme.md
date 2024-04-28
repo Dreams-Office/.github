@@ -3,8 +3,7 @@
    <size=80%><img src="https://avatars.githubusercontent.com/u/167843717" /></size>
 </a>
 
-# LimbusCompanySpanishTranslationTeam
-Traducción al Español de Limbus Company
+Luchar por el bien sin dudar ni temer, y dispuesto al infierno llegar si lo dicta el deber
 
 [![Discord](https://img.shields.io/badge/Discord%20Hispano%20de%20PM-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)](https://discord.gg/WfbHG4aZ6f)
 
