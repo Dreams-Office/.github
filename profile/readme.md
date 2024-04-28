@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam">
-   <size=80%><img src="https://avatars.githubusercontent.com/u/167843717" /></size>
+   <size=80%><img src="https://avatars.githubusercontent.com/u/167843717"width="200" height="200" /></size>
 </a>
 
 Luchar por el bien sin dudar ni temer, y dispuesto al infierno llegar si lo dicta el deber
